@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(33, 33, 33);
+}
+
+#canvas{
+    width:800px;
+    height: 600px;
+    position:relative;
+    margin-top: 6vh;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
