@@ -82,7 +82,7 @@ export default class CenaJogo2 extends Phaser.Scene {
         this.teclas = this.input.keyboard.createCursorKeys();
 
         // musica
-        this.musica2 = this.sound.add('cena2');
+        //this.musica2 = this.sound.add('cena2');
         //this.musica2.play();
         //this.musica2.setLoop(true);
     }
