@@ -64,7 +64,7 @@ export default  class CenaCarregamento extends Phaser.Scene {
         this.load.image('perdeu33', '/imagens/perdeu33.png');
         this.load.image('ganhou', '/imagens/batalha-ganhou.png');
         this.load.image('perdeu', '/imagens/batalha-perdeu.png');
-        this.load.image('corretivo-amarelo', '/imagens/corretivo-fundoamarelo.png');
+        this.load.image('corretivo-amarelo', 'imagens/corretivo-fundoamarelo.png');
         //this.load.image('gif', 'imagens/gif.gif');
         this.load.image('peixe', 'imagens/peixe.png');
         this.load.image('coletado', 'imagens/item-coletado.png');
