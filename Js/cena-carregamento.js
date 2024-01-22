@@ -8,7 +8,7 @@ export default  class CenaCarregamento extends Phaser.Scene {
     preload(){
         this.load.on('complete', () => {
            //this.scene.start('Menu');
-           this.scene.start('CenaMenu');
+           this.scene.start('Menu');
         });
 
         this.load.image('fundo', 'imagens/fundo1.png');
