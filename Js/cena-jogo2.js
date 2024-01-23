@@ -4,7 +4,7 @@ import Gato from './gato.js'
 let orientador = 0; //  0 inicia a personagem no canto esquerdo, 1 no diteito 
 let dialogoGato; // para o gato
 let dialogoGato2;
-let gatoFeliz = true; // mudei aqui pra testar
+let gatoFeliz = false; // mudei aqui pra testar
 let dialogoPortao; // para o portao
 let visitouMinhoca = false;
 
